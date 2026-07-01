@@ -57,3 +57,16 @@ Princess Chidi
 Helping businesses make smarter decisions with data | Planning & Performance | Business Intelligence | Data Analytics
 
 NOTE: This project used a realistic, simulated dataset created for portfolio and learning purposes. The dashboard is designed to demonstrate analytical, reporting, and visualization skills.
+
+## 📂 Files Included
+
+- Excel Dashboard (.xlsx)
+- Dashboard Screenshots
+- Project Documentation (README)
+
+## 📬 Contact
+
+LinkedIn: https://www.linkedin.com/in/princess-chidi-316b7a365
+Email Address: pchidi0108@gmail.com
+GitHub: PrincessChidiAnalytics
+
